@@ -1,12 +1,12 @@
-# Total Color
+<!-- # Total Color
 
-**Título do TCC:** Total Color: uma aplicação web para coloração total em grafos <!-- substitua pelo título do TCC -->
+**Título do TCC:** Total Color: uma aplicação web para coloração total em grafos
 
-**Aluno:** Renan Carvalho Pinheiro da Silva <!-- substitua pelos nomes dos alunos -->
+**Aluno:** Renan Carvalho Pinheiro da Silva
 
-**Semestre de Defesa:** 2025.2 <!-- ano-semestre, exemplo: 2025-2 -->
+**Semestre de Defesa:** 2025.2
 
-[PDF do TCC](/public/documentation/tcc.pdf)
+[PDF do TCC](/public/documentation/tcc.pdf) -->
 
 
 # TL;DR
