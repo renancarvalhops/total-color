@@ -33,7 +33,7 @@ Caso queira rodar localmente, clone o repositório e execute os seguintes comand
 <!-- Resumo do TCC -->
 A visualização de grafos desempenha um papel importante no ensino e na compreensão de conceitos da Teoria dos Grafos, especialmente em problemas de coloração, que apresentam elevada complexidade teórica e computacional. Entre esses problemas, destaca-se a coloração total de grafos, que consiste na atribuição de cores a vértices e arestas de modo que elementos adjacentes ou incidentes recebam cores distintas. Apesar de sua relevância teórica e de sua relação com a Conjectura da Coloração Total, observa-se a escassez de ferramentas educacionais interativas voltadas especificamente para esse tema.
 
-Neste contexto, este trabalho apresenta o Total Color, uma aplicação web desenvolvida com finalidade acadêmica, cujo objetivo é permitir a visualização da coloração total em classes específicas de grafos, bem como promover a aprendizagem ativa por meio da interação e experimentação do usuário. A aplicação contempla as classes dos grafos caminho, ciclo e completos, incorporando resultados teóricos conhecidos sobre seus respectivos números cromáticos totais. Além disso, o sistema oferece funcionalidades para geração automática de grafos dessas classes e um modo livre para construção e manipulação manual de grafos.
+Neste contexto, este trabalho apresenta o Total Color, uma aplicação web desenvolvida com finalidade acadêmica, cujo objetivo é permitir a visualização da coloração total em classes específicas de grafos, bem como promover a aprendizagem ativa por meio da interação e experimentação do usuário. A aplicação contempla as classes dos grafos caminho, ciclo e completos, incorporando resultados teóricos conhecidos sobre seus respectivos números cromáticos totais. Além disso, o sistema oferece funcionalidades para geração automática de grafos dessas classes e um modo desafio para construção e manipulação manual de grafos.
 
 Como contribuição, o Total Color integra conceitos teóricos da coloração total a uma interface visual interativa, auxiliando no processo de ensino-aprendizagem e servindo como ferramenta de apoio para estudantes e pesquisadores da área de Teoria dos Grafos.
 
@@ -43,7 +43,7 @@ Como contribuição, o Total Color integra conceitos teóricos da coloração to
 # Funcionalidades
 <!-- Descreva as principais funcionalidades do seu código. Exemplo: -->
 
-O Total Color é dividido em dois modos principais de utilização: classes e livre.
+O Total Color é dividido em dois modos principais de utilização: classes e desafio.
 
 * Modo Classes
    * Escolha de grafos pertencentes às classes de grafos abordadas no trabalho (caminhos, ciclos e completos) e geração automática do grafo a partir de parâmetros definidos pelo usuário, como ordem do grafo e layout, com valores padrão previamente configurados.
@@ -55,7 +55,7 @@ O Total Color é dividido em dois modos principais de utilização: classes e li
    * Atualização em tempo real dos rótulos e da contagem de cores conforme a coloração é modificada.
    * Exportação do grafo gerado no formato `.g6`.
 
-* Modo Livre
+* Modo Desafio
    * Criação de grafos arbitrários do zero, com inserção manual de vértices e arestas.
    * Importação de grafos a partir de arquivos `.txt` contendo matrizes de adjacência ou matrizes acompanhadas de coloração.
    * Importação de grafos no formato `.g6` (graph6).
