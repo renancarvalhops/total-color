@@ -24,7 +24,7 @@ export default function Welcome() {
             <GraphGenerator graphMode="free">
                 <div className="border-2 border-l-4 bg-white cursor-pointer duration-200 hover:border-l-blue-500 hover:scale-102 flex flex-col gap-2 p-4 rounded-lg ease-in-out max-w-sm shadow-md">
                     <h2 className="font-bold text-xl">
-                        Livre
+                        Desafio
                     </h2>
 
                     <p className="">
